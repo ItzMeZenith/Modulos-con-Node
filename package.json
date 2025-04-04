@@ -1,0 +1,12 @@
+{
+  "name": "modulos-con-node",
+  "version": "1.0.0",
+  "description": "Primer TP de Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "JSS",
+  "license": "ISC"
+}
