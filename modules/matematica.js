@@ -17,3 +17,19 @@ const multiplicacion = () => {
 const division = () => {
     console.log(num1/num2)
 }
+
+const piMasUno = () => {
+    console.log(pi+1)
+}
+
+const matematica = () => {
+    suma()
+    resta()
+    multiplicacion()
+    division()
+    piMasUno()
+}
+
+matematica()
+ 
+module.exports = matematica;

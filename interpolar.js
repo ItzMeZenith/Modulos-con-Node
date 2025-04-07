@@ -1,11 +1,11 @@
 let str1 = "Hola"
 let str2 = "Universo"
 
-const Interpolar = () => {
+const interpolar = () => {
     let strC = `${str1} ${str2}`
     console.log(strC)
 }
 
-Interpolar()
+interpolar()
 
-module.exports = Interpolar;
+module.exports = interpolar;
